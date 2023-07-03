@@ -177,8 +177,8 @@
             "#282828"
         ],
         "INFO_HELP_FOREGROUND": [
-            "#141411",
-            "#141411"
+            "#0d0d17",
+            "#0d0d17"
         ],
         "INFO_HELP_TEXT": [
             "#fbf1c7",
@@ -189,8 +189,8 @@
             "#282828"
         ],
         "INFO_POSITIVE_FOREGROUND": [
-            "#141411",
-            "#141411"
+            "#0d0d17",
+            "#0d0d17"
         ],
         "INFO_POSITIVE_TEXT": [
             "#fbf1c7",
@@ -201,8 +201,8 @@
             "#282828"
         ],
         "INFO_WARNING_FOREGROUND": [
-            "#141411",
-            "#141411"
+            "#0d0d17",
+            "#0d0d17"
         ],
         "INFO_WARNING_TEXT": [
             "#bac2de",
