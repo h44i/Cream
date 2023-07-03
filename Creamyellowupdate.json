@@ -201,8 +201,8 @@
             "#282828"
         ],
         "INFO_WARNING_FOREGROUND": [
-            "#0d0d17",
-            "#0d0d17"
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "INFO_WARNING_TEXT": [
             "#bac2de",
