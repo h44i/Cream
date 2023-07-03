@@ -37,8 +37,8 @@
             "#282828"
         ],
         "BACKGROUND_ACCENT": [
-            "#E8AC41",
-            "#E8AC41"
+            "#282828",
+            "#282828"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#282828",
@@ -309,7 +309,7 @@
         "PRIMARY_500": "#504945",
         "PRIMARY_100": "#908A71",
         "PRIMARY_300": "#908a71",
-        "PRIMARY_400": "#f23f43",
+        "PRIMARY_400": "#CF665A",
         "PRIMARY_600": "#282828",
         "PRIMARY_630": "#282828",
         "PRIMARY_700": "#3C3836",
