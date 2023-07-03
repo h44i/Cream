@@ -17,8 +17,8 @@
             "#3c3836"
         ],
         "BACKGROUND_MENTIONED": [
-            "#374863",
-            "#374863"
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#a39971",
@@ -177,8 +177,8 @@
             "#282828"
         ],
         "INFO_HELP_FOREGROUND": [
-            "#0d0d17",
-            "#0d0d17"
+            "#11111b",
+            "#11111b"
         ],
         "INFO_HELP_TEXT": [
             "#fbf1c7",
@@ -189,8 +189,8 @@
             "#282828"
         ],
         "INFO_POSITIVE_FOREGROUND": [
-            "#0d0d17",
-            "#0d0d17"
+            "#11111b",
+            "#11111b"
         ],
         "INFO_POSITIVE_TEXT": [
             "#fbf1c7",
@@ -201,8 +201,8 @@
             "#282828"
         ],
         "INFO_WARNING_FOREGROUND": [
-            "#FFFFFF",
-            "#FFFFFF"
+            "#11111b",
+            "#11111b"
         ],
         "INFO_WARNING_TEXT": [
             "#bac2de",
