@@ -153,8 +153,8 @@
             "#282828"
         ],
         "HEADER_PRIMARY": [
-            "#FFFFE0",
-            "#FFFFE0"
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "HEADER_SECONDARY": [
             "#E9B872",
@@ -177,8 +177,8 @@
             "#282828"
         ],
         "INFO_HELP_FOREGROUND": [
-            "#11111b",
-            "#11111b"
+            "#141411",
+            "#141411"
         ],
         "INFO_HELP_TEXT": [
             "#fbf1c7",
@@ -189,8 +189,8 @@
             "#282828"
         ],
         "INFO_POSITIVE_FOREGROUND": [
-            "#11111b",
-            "#11111b"
+            "#141411",
+            "#141411"
         ],
         "INFO_POSITIVE_TEXT": [
             "#fbf1c7",
@@ -201,8 +201,8 @@
             "#282828"
         ],
         "INFO_WARNING_FOREGROUND": [
-            "#11111b",
-            "#11111b"
+            "#141411",
+            "#141411"
         ],
         "INFO_WARNING_TEXT": [
             "#bac2de",
